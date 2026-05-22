@@ -1,4 +1,4 @@
-# 4d-example-granite-embedding-multilingual-r2
+# [ibm-granite/granite-embedding-311m-multilingual-r2](https://huggingface.co/ibm-granite/granite-embedding-311m-multilingual-r2)
 Granite Embedding Multilingual R2 in GGUF
 
 |`max_position_embeddings`|`hidden_size`|`num_hidden_layers`|`pooling`
